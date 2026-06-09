@@ -11,6 +11,7 @@ from io import StringIO
 # ─────────────────────────────────────────────
 #  Constantes do Jogo
 # ─────────────────────────────────────────────
+
 LARGURA_TELA = 800
 ALTURA_TELA = 600
 TAMANHO_CELULA = 50
